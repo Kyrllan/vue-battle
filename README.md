@@ -1,6 +1,5 @@
 # monsters
-
-# Simple game made in vuesj and vuetify
+Simple game made in vuesj and vuetify
 
 # Consegue vencer o temido monstro em uma batalha sangrenta?
 https://vue-battle.herokuapp.com/
